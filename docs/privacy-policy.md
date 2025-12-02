@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-nav_order: 5
+nav_order: 6
 ---
 
 # Privacy Policy
@@ -281,3 +281,4 @@ The Services are not directed to children under 18 (or other age as required by 
 **Refer-a-Friend and Similar Incentive Programs.** As described above in “How We Use Your Personal Information”, we may offer referral programs or other incentivized data collection programs. For example, we may offer incentives to you such as discounts or promotional items or credit in connection with these programs, wherein you provide your personal information in exchange for a reward, or provide personal information regarding your friends or colleagues (such as their email address) and receive rewards when they sign up to use our Services. (The referred party may also receive rewards for signing up via your referral.) These programs are entirely voluntary and allow us to grow our business and provide additional benefits to you. The value of your data to us depends on how you ultimately use our Services, whereas the value of the referred party’s data to us depends on whether the referred party ultimately becomes a user and uses our Services. Said value will be reflected in the incentive offered in connection with each program.
 
 **Accessibility.** This Privacy Policy uses industry-standard technologies and was developed in line with the World Wide Web Consortium’s Web Content Accessibility Guidelines, version 2.1. If you wish to print this policy, please do so from your web browser or by saving the page as a PDF.
+
