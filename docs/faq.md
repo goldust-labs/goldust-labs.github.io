@@ -1,6 +1,6 @@
 ---
 title: FAQ
-nav_order: 4
+nav_order: 5
 ---
 
 # Frequently Asked Questions
@@ -55,5 +55,6 @@ NFT royalties refer to the fixed percentage of income that the original creator 
   - Suppose you create and sell an NFT, setting a 10% royalty. A buyer purchases your NFT for $100.
 
   - Later, the NFT is resold to another buyer for $200.
+
 
   - In this resale, a 10% royalty means you will receive 10% of the $200, which equals $20 as royalty income.
